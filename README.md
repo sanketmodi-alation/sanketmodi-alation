@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sanketmodi-alation
+- 👋 Hi, I’m Sanket Modi
 - 👀 I’m interested in QA
 - 🌱 I’m currently learning automation in Python.
 - 💞️ I’m looking to collaborate on automation framework, improving best practices.
